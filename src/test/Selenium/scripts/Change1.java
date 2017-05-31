@@ -6,5 +6,6 @@ public class Change1 {
 	{
 		System.out.println("making local changes");
 		System.out.println("changes 2");
+		System.out.println("changes 3");
 	}
 }
