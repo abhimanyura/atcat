@@ -7,5 +7,6 @@ public class Change1 {
 		System.out.println("making local changes");
 		System.out.println("changes 2");
 		System.out.println("changes 3");
+		System.out.println("switching to my branch");
 	}
 }
